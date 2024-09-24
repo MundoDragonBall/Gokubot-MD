@@ -53,7 +53,7 @@ global.comunidad2 = 'https://chat.whatsapp.com/IizMPKj6y9ZK3P1jiVnE1D' //Comunid
 global.channel = 'https://whatsapp.com/channel/0029VaJL0xn0LKZL7FtiRs1e' //Canal Oficial
 global.channel2 = 'https://whatsapp.com/channel/0029Vam7yUg77qVaz3sIAp0z' //Canal Sunlight Team //Listo
 global.yt = 'https://www.youtube.com/@Jostin207Oficialmanito' //Canal De Youtube
-global.md = 'https://github.com/Jostin207/GokuBot-MD' //Github Oficial
+global.md = 'https://github.com/MundoDragonBall/Gokubot-MD' //Github Oficial
 global.fb = 'https://www.facebook.com/JostinOfici' //Facebook Del Propietario
 global.tiktok = 'https://tiktok.com/@gokubot_md' //Cuenta tiktok
 
